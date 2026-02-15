@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "scheme": "step-memo",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -18,7 +18,8 @@
       "bundleIdentifier": "co.jp.manyconnection.stepmemo",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
-      }
+      },
+      "buildNumber": "2"
     },
     "android": {
       "adaptiveIcon": {
